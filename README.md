@@ -21,4 +21,7 @@ This project is a modern, responsive, and performance-focused web portfolio. It 
 
 ## 📁 Features
 
-Here will be a list of features and below will be instructions on how to access the site.
+## To Do
+- Re-format code from portfolio to React.
+- Integrate backend for form submissions and handling meta data.
+- Possibly add a game or two for more interaction.
