@@ -6,6 +6,8 @@ This is the updated version of my personal portfolio website, built using a full
 
 This project is a modern, responsive, and performance-focused web portfolio. It emphasizes clean UI, accessibility, and maintainable code. It also includes a backend powered by Node.js and PostgreSQL for dynamic features like contact form submissions and (optionally) content management.
 
+---
+
 ## 🛠️ Built With
 
 ### Frontend
@@ -21,7 +23,49 @@ This project is a modern, responsive, and performance-focused web portfolio. It 
 
 ## 📁 Features
 
-## To Do
-- Re-format code from portfolio to React.
-- Integrate backend for form submissions and handling meta data.
-- Possibly add a game or two for more interaction.
+- Fully responsive and accessible layout
+- Contact form with backend integration
+- Project section powered by database
+- Clean, modern design
+- Future support for content management
+
+---
+
+## 🧩 Roadmap / To-Do
+
+### 📊 Architecture
+- [ ] Create architectural diagram
+- [ ] Design Entity-Relationship Diagram (ERD)
+
+### 🛠️ Backend
+- [ ] Design database schema
+- [ ] Build API routes
+- [ ] Add middleware for:
+  - Authentication
+  - Metadata logging
+- [ ] Integrate backend to handle:
+  - Adding projects
+  - Displaying projects
+
+### 🎨 Frontend
+- [ ] Migrate HTML templates from the old site to React components
+- [ ] Migrate existing CSS styles to the new structure
+
+---
+
+## 🚀 Development Plan
+
+```plaintext
+[Plan & Design] 
+    ↓
+[Database Schema] 
+    ↓
+[Backend & API] 
+    ↓
+[Middleware & Auth] 
+    ↓
+[Frontend & UI] 
+    ↓
+[Connect Frontend to Backend] 
+    ↓
+[Test & Deploy]
