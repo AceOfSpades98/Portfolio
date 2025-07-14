@@ -6,8 +6,6 @@ This is the updated version of my personal portfolio website, built using a full
 
 This project is a modern, responsive, and performance-focused web portfolio. It emphasizes clean UI, accessibility, and maintainable code. It also includes a backend powered by Node.js and PostgreSQL for dynamic features like contact form submissions and (optionally) content management.
 
----
-
 ## 🛠️ Built With
 
 ### Frontend
@@ -29,7 +27,6 @@ This project is a modern, responsive, and performance-focused web portfolio. It 
 - Clean, modern design
 - Future support for content management
 
----
 
 ## 🧩 Roadmap / To-Do
 
@@ -51,7 +48,6 @@ This project is a modern, responsive, and performance-focused web portfolio. It 
 - [ ] Migrate HTML templates from the old site to React components
 - [ ] Migrate existing CSS styles to the new structure
 
----
 
 ## 🚀 Development Plan
 
